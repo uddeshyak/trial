@@ -15,5 +15,12 @@ mychef = chef()
 mychef.make_chicken()
 mychef.make_salad()
 
+from chinesechef import chinesechef
+
+mychinesechef = chinesechef()
+mychinesechef.make_fried_rice()
+
+
+
 
 
